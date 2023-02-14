@@ -1,0 +1,6 @@
+Reporte de discos
+-----------------
+Nombre:Confessions on a Dance FloorArtista:MadonnaGenero:Pop
+Nombre:Push the ButtonArtista:The Chemical BrothersGenero:Electrónica
+Nombre:Is This ItArtista:The StrokesGenero:Rock
+Nombre:ElephantArtista:The White StripesGenero:Rock
